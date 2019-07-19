@@ -1,0 +1,6 @@
+Voici les 5 fruits:
+1- Ananas
+2- Pommes
+3- Figues
+4- Melon
+5- Papaya
