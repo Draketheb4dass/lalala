@@ -1,6 +1,6 @@
-Voici les 5 fruits:
-1- Ananas
-2- Pommes
-3- Figues
-4- Melon
-5- Papaya
+voici les 5 foods:
+1- pizza
+2- Pate
+3- crepes
+4- spaghetti
+5- pain
