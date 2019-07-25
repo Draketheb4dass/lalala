@@ -1,0 +1,6 @@
+5 food
+1 pizza
+2 sandwich
+3 pate
+4 crepe
+5 spaghetti
